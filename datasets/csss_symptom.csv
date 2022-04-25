@@ -710,6 +710,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Feber,0.79521162890124,Positiv
 2022-04-17,Feber,0.698947368421053,Positiv
 2022-04-18,Feber,0.633227795367439,Positiv
+2022-04-19,Feber,0.926080427165026,Positiv
+2022-04-20,Feber,0.898027696181284,Positiv
+2022-04-21,Feber,1.02348993288591,Positiv
+2022-04-22,Feber,0.793854033290653,Positiv
+2022-04-23,Feber,0.905797101449275,Positiv
 2020-04-29,Förlorat eller förändrat lukt-/smaksinne,2.33365587113666,Positiv
 2020-04-30,Förlorat eller förändrat lukt-/smaksinne,2.24063378791086,Positiv
 2020-05-01,Förlorat eller förändrat lukt-/smaksinne,2.17460739952089,Positiv
@@ -1421,6 +1426,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Förlorat eller förändrat lukt-/smaksinne,1.2654980761009,Positiv
 2022-04-17,Förlorat eller förändrat lukt-/smaksinne,1.28,Positiv
 2022-04-18,Förlorat eller förändrat lukt-/smaksinne,1.22479586735544,Positiv
+2022-04-19,Förlorat eller förändrat lukt-/smaksinne,1.30151843817787,Positiv
+2022-04-20,Förlorat eller förändrat lukt-/smaksinne,1.28409567771716,Positiv
+2022-04-21,Förlorat eller förändrat lukt-/smaksinne,1.26677852348993,Positiv
+2022-04-22,Förlorat eller förändrat lukt-/smaksinne,1.28040973111396,Positiv
+2022-04-23,Förlorat eller förändrat lukt-/smaksinne,1.21635610766046,Positiv
 2020-04-29,Aptitlöshet,3.02806078888952,Positiv
 2020-04-30,Aptitlöshet,2.86655982582928,Positiv
 2020-05-01,Aptitlöshet,2.57652382219856,Positiv
@@ -2132,6 +2142,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Aptitlöshet,0.436083796494228,Positiv
 2022-04-17,Aptitlöshet,0.345263157894737,Positiv
 2022-04-18,Aptitlöshet,0.333277787035494,Positiv
+2022-04-19,Aptitlöshet,0.375438011012848,Positiv
+2022-04-20,Aptitlöshet,0.360889634913974,Positiv
+2022-04-21,Aptitlöshet,0.343959731543624,Positiv
+2022-04-22,Aptitlöshet,0.28169014084507,Positiv
+2022-04-23,Aptitlöshet,0.267425810904072,Positiv
 2020-04-29,Ihållande hosta,2.85161363765724,Positiv
 2020-04-30,Ihållande hosta,2.70327477245925,Positiv
 2020-05-01,Ihållande hosta,2.80010646792654,Positiv
@@ -2843,6 +2858,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Ihållande hosta,1.91534843950406,Positiv
 2022-04-17,Ihållande hosta,1.70105263157895,Positiv
 2022-04-18,Ihållande hosta,2.03299450091651,Positiv
+2022-04-19,Ihållande hosta,1.86050392124145,Positiv
+2022-04-20,Ihållande hosta,1.85480486781368,Positiv
+2022-04-21,Ihållande hosta,1.81208053691275,Positiv
+2022-04-22,Ihållande hosta,1.80964575330773,Positiv
+2022-04-23,Ihållande hosta,1.71670117322291,Positiv
 2020-04-29,Diarré,2.16290056349252,Positiv
 2020-04-30,Diarré,1.81427837077802,Positiv
 2020-05-01,Diarré,1.79398456215065,Positiv
@@ -3554,6 +3574,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Diarré,0.350577169730654,Positiv
 2022-04-17,Diarré,0.454736842105263,Positiv
 2022-04-18,Diarré,0.241626395600733,Positiv
+2022-04-19,Diarré,0.400467211747038,Positiv
+2022-04-20,Diarré,0.377675199328577,Positiv
+2022-04-21,Diarré,0.327181208053691,Positiv
+2022-04-22,Diarré,0.315834400341443,Positiv
+2022-04-23,Diarré,0.293305728088337,Positiv
 2020-04-29,Heshet,3.00529341453697,Negativ
 2020-04-30,Heshet,2.91494058238336,Negativ
 2020-05-01,Heshet,2.86398722384882,Negativ
@@ -4265,6 +4290,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Heshet,1.51346729371526,Negativ
 2022-04-17,Heshet,1.58315789473684,Negativ
 2022-04-18,Heshet,1.50808198633561,Negativ
+2022-04-19,Heshet,1.65192724845653,Negativ
+2022-04-20,Heshet,1.68694922366765,Negativ
+2022-04-21,Heshet,1.74496644295302,Negativ
+2022-04-22,Heshet,1.57917200170721,Negativ
+2022-04-23,Heshet,1.61318150448585,Negativ
 2020-04-29,Svår trötthet,1.2066708406853,Positiv
 2020-04-30,Svår trötthet,1.21254271113665,Positiv
 2020-05-01,Svår trötthet,1.12323662496673,Positiv
@@ -4976,6 +5006,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Svår trötthet,0.521590423257802,Positiv
 2022-04-17,Svår trötthet,0.530526315789474,Positiv
 2022-04-18,Svår trötthet,0.449925012497917,Positiv
+2022-04-19,Svår trötthet,0.483897880861005,Positiv
+2022-04-20,Svår trötthet,0.4867813680235,Positiv
+2022-04-21,Svår trötthet,0.587248322147651,Positiv
+2022-04-22,Svår trötthet,0.469483568075117,Positiv
+2022-04-23,Svår trötthet,0.370945479641132,Positiv
 2020-04-29,Ont i halsen,6.30087085206899,Negativ
 2020-04-30,Ont i halsen,6.49209277010069,Negativ
 2020-05-01,Ont i halsen,6.05003992547245,Negativ
@@ -5687,6 +5722,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Ont i halsen,2.48824283882001,Negativ
 2022-04-17,Ont i halsen,2.32421052631579,Negativ
 2022-04-18,Ont i halsen,2.44959173471088,Negativ
+2022-04-19,Ont i halsen,2.55297847488737,Negativ
+2022-04-20,Ont i halsen,2.50944187998321,Negativ
+2022-04-21,Ont i halsen,2.38255033557047,Negativ
+2022-04-22,Ont i halsen,2.24498506188647,Negativ
+2022-04-23,Ont i halsen,2.27743271221532,Negativ
 2020-04-29,Ovanlig muskelsmärta,2.07752290967044,Positiv
 2020-04-30,Ovanlig muskelsmärta,2.06525354540232,Positiv
 2020-05-01,Ovanlig muskelsmärta,2.0149055097152,Positiv
@@ -6398,6 +6438,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Ovanlig muskelsmärta,0.324925181701582,Positiv
 2022-04-17,Ovanlig muskelsmärta,0.328421052631579,Positiv
 2022-04-18,Ovanlig muskelsmärta,0.299950008331945,Positiv
+2022-04-19,Ovanlig muskelsmärta,0.300350408810279,Positiv
+2022-04-20,Ovanlig muskelsmärta,0.402853545950483,Positiv
+2022-04-21,Ovanlig muskelsmärta,0.335570469798658,Positiv
+2022-04-22,Ovanlig muskelsmärta,0.426803243704652,Positiv
+2022-04-23,Ovanlig muskelsmärta,0.353692201518288,Positiv
 2020-04-29,Frossa/huttrar,0.705788604929137,Negativ
 2020-04-30,Frossa/huttrar,2.62465604305887,Negativ
 2020-05-01,Frossa/huttrar,2.17993079584775,Negativ
@@ -7109,6 +7154,11 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Frossa/huttrar,0.350577169730654,Negativ
 2022-04-17,Frossa/huttrar,0.387368421052632,Negativ
 2022-04-18,Frossa/huttrar,0.28328611898017,Negativ
+2022-04-19,Frossa/huttrar,0.342065743367262,Negativ
+2022-04-20,Frossa/huttrar,0.352496852706672,Negativ
+2022-04-21,Frossa/huttrar,0.419463087248322,Negativ
+2022-04-22,Frossa/huttrar,0.443875373452838,Negativ
+2022-04-23,Frossa/huttrar,0.370945479641132,Negativ
 2020-04-29,Ont eller irritation i ögon,1.07575843815812,Negativ
 2020-04-30,Ont eller irritation i ögon,4.06398355054277,Negativ
 2020-05-01,Ont eller irritation i ögon,3.82752195900985,Negativ
@@ -7820,3 +7870,8 @@ Datum,Symptom,Andel,Vikt
 2022-04-16,Ont eller irritation i ögon,1.08593415989739,Negativ
 2022-04-17,Ont eller irritation i ögon,1.12842105263158,Negativ
 2022-04-18,Ont eller irritation i ögon,1.08315280786536,Negativ
+2022-04-19,Ont eller irritation i ögon,1.00951109627899,Negativ
+2022-04-20,Ont eller irritation i ögon,1.06588334032732,Negativ
+2022-04-21,Ont eller irritation i ögon,1.1493288590604,Negativ
+2022-04-22,Ont eller irritation i ögon,1.03286384976526,Negativ
+2022-04-23,Ont eller irritation i ögon,1.1128364389234,Negativ
