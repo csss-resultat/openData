@@ -12,8 +12,8 @@ their data, it would not have been possible for us to follow the spread
 of infection in Sweden. We will continue to publish our results in
 scientific articles and at scientific meetings and we will share these
 results on the study’s website as soon as they have been reviewed and
-published. You can read more about the end of data collection a href =
-<https://www.covid19app.lu.se/artikel/vi-avslutar-var-datainsamling-0>\>
+published. You can read more about the end of data collection
+<a href = https://www.covid19app.lu.se/artikel/vi-avslutar-var-datainsamling-0>
 here</a> (Swedish).
 
 ## covidsymptom R package
